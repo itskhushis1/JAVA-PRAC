@@ -8,3 +8,18 @@ public class AddTwoNumbers {
       System.out.println("Sum of these numbers: "+sum);
    }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+Output:
+
+Sum of these numbers: 20
