@@ -15,11 +15,6 @@ public class AddTwoNumbers {
 
 
 
-
-
-
-
-
 Output:
 
 Sum of these numbers: 20
